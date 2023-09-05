@@ -1,0 +1,25 @@
+{
+    "name": "to-do-list",
+    "version": "1.0.0",
+    "description": "Simple to-do list project using jQuery, Typescript and SASS",
+    "main": "dist/app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "compile": "npx tsc",
+        "start": "node ./public/scripts/app.js"
+    },
+    "keywords": [
+        "\"to-do",
+        "list",
+        "jquery",
+        "typescript",
+        "sass\""
+    ],
+    "author": "\"Mathieu JOURDAN\"",
+    "license": "ISC",
+    "devDependencies": {
+        "jquery": "^3.7.1",
+        "prettier": "^3.0.3",
+        "typescript": "^5.1.3"
+    }
+}

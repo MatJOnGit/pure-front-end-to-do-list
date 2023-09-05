@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "public/scripts",
+        "module": "CommonJS",
+        "target": "ES2015",
+        "strict": true,
+        "noImplicitAny": true,
+        "removeComments": true
+    },
+    "include": ["src/scripts/*.ts"]
+}
